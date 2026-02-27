@@ -34,3 +34,4 @@ The data includes both recession and stable economic periods to enable comparati
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+- Plotly Dash
